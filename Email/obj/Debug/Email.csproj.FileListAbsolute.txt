@@ -77,18 +77,6 @@ C:\Users\TI\Desktop\envio_\Email\Email\obj\Debug\Email.Properties.Resources.reso
 C:\Users\TI\Desktop\envio_\Email\Email\obj\Debug\Email.csproj.GenerateResource.Cache
 C:\Users\TI\Desktop\envio_\Email\Email\obj\Debug\Email.exe
 C:\Users\TI\Desktop\envio_\Email\Email\obj\Debug\Email.pdb
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.exe.config
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.exe
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.pdb
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.exe
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.pdb
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Form1.resources
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Form2.resources
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.HTML.resources
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Pausa.resources
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Properties.Resources.resources
-C:\Users\TI\Desktop\DOCs Art Chik\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.csproj.GenerateResource.Cache
 C:\Users\TI\Desktop\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.exe.config
 C:\Users\TI\Desktop\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.exe
 C:\Users\TI\Desktop\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.pdb
@@ -101,3 +89,30 @@ C:\Users\TI\Desktop\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.HTML.
 C:\Users\TI\Desktop\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Pausa.resources
 C:\Users\TI\Desktop\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Properties.Resources.resources
 C:\Users\TI\Desktop\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.exe.config
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.exe
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.exe
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Form1.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Form2.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.HTML.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Pausa.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.Properties.Resources.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\T.I. ArtChik\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\bin\Debug\Email.exe.config
+C:\Users\TI\Desktop\T.I. ArtChik\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.exe
+C:\Users\TI\Desktop\T.I. ArtChik\C#\1 -Pasta de Trabalho\Email Novembro 2017\envio_\Email\Email\obj\Debug\Email.pdb
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\bin\Debug\Email.exe.config
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.exe
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.pdb
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\bin\Debug\Email.exe
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\bin\Debug\Email.pdb
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.Form1.resources
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.Form2.resources
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.HTML.resources
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.Pausa.resources
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.Properties.Resources.resources
+C:\Users\TI\Desktop\Email Novembro 2021\envio_\Email\Email\obj\Debug\Email.csproj.GenerateResource.Cache

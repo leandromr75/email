@@ -120,6 +120,62 @@
   <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html lang='pt-br'&gt;
+&lt;head&gt;                            
+&lt;meta name='viewport' content='width=device-width, initial-scale=1'&gt;
+&lt;link href='https://fonts.googleapis.com/css?family=Basic' rel='stylesheet'&gt;
+&lt;link href='https://fonts.googleapis.com/css?family=Sans+Serif' rel='stylesheet'&gt;
+&lt;style&gt;                           
+.city {
+       float: none;
+       margin: 10px;
+       padding: 15px;
+       max-width: 570px;
+       height: auto;
+       font: medium;
+       background-color: beige;      
+    }
+    logo{
+       font-size: xx-large;
+       color: green;
+       line-height: 0.8;
+       font-family: Arial, 'Basic' , 'Sans Serif',Helvetica, Verdana, Sans-Serif;
+       }
+    .comunicado{
+       font-size: large;
+       text-decoration: underline;
+       font-family: Arial, 'Basic' ,Helvetica, Verdana, Sans-Serif; 
+       img.seven-logo{
+       max-width: 100%;
+       height: auto;
+       }
+    }
+
+    &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;                          
+    &lt;div class='city'style='float: none;margin: 10px;padding: 15px;max-width: 515px;height: auto;font: medium;background-color: beige;'&gt;
+    &lt;p class='logo' style='font-size: xx-large; color: green; line-height: 0.8; font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;&amp;nbsp;&amp;nbsp;art&lt;br&gt;
+    chik&lt;/p&gt;
+
+        &lt;p class='logo'&gt;&amp;nbsp;&amp;nbsp;
+        &lt;/p&gt;&lt;p class='comunicado' style='font-size: large; color: black; text-decoration: underline;font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;&lt;b&gt;COMUNICADO&lt;/b&gt;&lt;/p&gt;
+        &lt;p style='color: black, font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;Comunicamos aos nossos amigos, clientes e fornecedores, que no período de&lt;br /&gt;&lt;/p&gt;
+        &lt;p style='color: black, font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;&lt;b&gt;22 DE DEZEMBRO DE 2021 a 04 DE JANEIRO DE 2022&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+        &lt;p style='color: black, font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;vamos paralisar as nossas atividades industriais para a necessária manutenção&lt;br /&gt;
+        das máquinas e equipamentos.&lt;/p&gt;
+        &lt;p style='color: black, font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;&lt;b&gt;IMPORTANTE:&lt;/b&gt;&lt;br /&gt;Os pedidos recebidos até o dia.........10 DE DEZEMBRO&lt;br /&gt;serão produzidos e despachados até 21 DE DEZEMBRO&lt;br /&gt;&lt;/p&gt;
+        &lt;br /&gt;
+        &lt;p style='color: black, font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;Queremos aproveitar esta oportunidade para agradecer a todos que nos distinguiram com sua presença, amizade e confiança neste ano que termina, desejando que possamos continuar juntos na busca do aperfeiçoamento pessoal, profissional e de novas conquistas.&lt;/p&gt;
+        &lt;br /&gt;
+        &lt;p style='color: black, font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;&lt;b&gt;Boas Festas, Um Feliz Natal e Próspero Ano Novo a todos!&lt;/b&gt;&lt;/p&gt;
+        &lt;p style='color: black, font-family: Arial, Helvetica,&amp;quot;Basic&amp;quot;, Verdana, Sans-Serif;'&gt;Equipe ART CHIK&lt;/p&gt;
+    &lt;/div&gt;
+	&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>31</value>
   </metadata>
